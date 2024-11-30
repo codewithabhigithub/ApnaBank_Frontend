@@ -1,0 +1,120 @@
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    text-align: left;
+    
+  
+  }
+  
+  .form-control {
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  
+  .label-field {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    
+  }
+  
+  .input-field {
+    /* width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px; */
+    margin: 0.5rem 0;
+    padding: 1rem;
+    border: none;
+    border-radius: 10px;
+    /* background-color: rgb(196, 184, 184); */
+  }
+  
+  .error-message {
+    color: red;
+    margin-top: 5px;
+    text-align: left;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+  
+  .previous-button,
+  .next-button {
+    padding: 10px 20px;
+    background-color: #ccc;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .submit-button {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    color: #fff;
+  }
+  .button-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .go-back,
+  .go-next {
+    background-color: #b70f0f; /* Replace with your desired color */
+    color: #ffffff; /* Replace with your desired color */
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .go-back:hover,
+  .go-next:hover {
+    background-color: #b70f0f; /* Replace with your desired color */
+  }
+  .next-button {
+    background-color: #b70f0f; /* Replace with your desired color */
+    color: #ffffff; /* Replace with your desired color */
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .next-button:hover {
+    background-color: #b70f0f; /* Replace with your desired color */
+  }
+  .confirmation {
+    text-align: center;
+    /* margin-top: 1rem; */
+  }
+  
+  .confirmation h2 {
+    font-size: 24px;
+    margin-bottom: 5px;
+  }
+  
+  .confirmation-details {
+    display: inline-block;
+    text-align: left;
+    border: 1px solid #ccc;
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .confirmation-details p {
+    margin-bottom: 10px;
+  }
+  
+  .confirmation-details strong {
+    font-weight: bold;
+  }
+  
+  

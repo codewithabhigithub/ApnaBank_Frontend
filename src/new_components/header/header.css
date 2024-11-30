@@ -1,0 +1,79 @@
+
+/* *{
+    margin: 0;
+    padding: 0;
+  }
+   */
+
+
+  .Header {
+    display: flex;
+    background-color: #861f41;
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+    color: whitesmoke;
+    width: 100%;
+   
+  }
+  
+  .Apna{
+    margin-top: 0px;
+    font-size: 1.8rem;
+    margin-right: 37.5rem;
+    margin-left: 1.25rem;
+    height: 5vh;
+  }
+
+  .Dil{
+    display: flex;
+    font-size: 1.2rem;
+    font-style: italic;
+    margin-left: 0.8rem;
+    
+  }
+  
+  #navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  #navbar li {
+    list-style: none;
+    padding: 0 20px;
+    position: relative;
+  }
+  
+  #navbar li a {
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #fff;
+    transition: 0.3s ease-in-out;
+  }
+  #navbar li a:hover,
+  #navbar li a.active {
+    color: #ffffff;
+  }
+  
+  #navbar li a:hover::after,
+  #navbar li a.active::after {
+    content: "";
+    width: 30%;
+    height: 2px;
+    background: #ffffff;
+    position: absolute;
+    bottom: -4px;
+    left: 20px;
+  }
+  
+  .link-btn {
+    background: #861f41;
+    color: white;
+    text-decoration: underline;
+  }
+  
+ 
+  
+  

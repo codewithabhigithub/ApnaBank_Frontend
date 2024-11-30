@@ -1,0 +1,45 @@
+
+
+
+.container {
+    display: flex;
+  }
+  .first{
+    margin-top: 5rem;
+  }
+  
+  .Content {
+    display: flex;
+    flex: 1;
+    background-color:olive;
+  }
+  
+  .image {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: black; */
+  }
+  
+  
+  .img {
+    max-width: 50%;
+    height: 50%;
+  }
+  
+
+  .heading{
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
+    font-family: Lato-Bold;
+    color: #861f41;
+  }
+
+  .para{
+    font-family: Lato-Regular;
+    margin-bottom: 1.5rem;
+  }
+
+
+

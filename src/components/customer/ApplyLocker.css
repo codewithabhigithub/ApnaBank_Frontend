@@ -1,0 +1,38 @@
+.customer-locker-apply {
+  margin-top: 1rem;
+  margin-left: 15rem;
+  width: 100%;
+  /* background-color: aqua; */
+  /* background-image:url(b.jpg); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  padding:200px;  
+
+}
+/* 
+.logo {
+
+     background-image: url(lo.png); 
+} */
+
+.terms-and-conditions{
+  color: rgb(238, 20, 143);
+  
+}
+.locker-status-customer{
+  margin-top: 1rem;
+  width: 20%;
+  margin-left: 5rem;
+  padding: 10px;
+  border-radius: 20px;
+  /* background-image: url(ba.avif); */
+  color: white;
+ 
+}
+.locker-status-customer:hover {
+  background-color: #838589;
+  color: white;
+  cursor: pointer;
+  
+}

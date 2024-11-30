@@ -1,0 +1,32 @@
+.button-container {
+    display: flex;
+    justify-content: center; /* Align items horizontally in the center */
+    margin-top: 1rem;
+  }
+  .button1 {
+    margin-left: 1rem;
+    padding: 0.5rem 1rem;
+    border: none;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: #323F52;
+  } 
+    .button2{
+    margin-left: 1rem;
+    padding: 0.5rem 1rem;
+    border: none;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: #323F52;
+  } 
+  .button3{
+    margin-left: 1rem;
+    padding: .7rem 1rem;
+    border: none;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color:  #323F52;
+  } 
+  .button1:hover,.button2:hover,.button3:hover{
+    background-color: #4370b3;;
+  }

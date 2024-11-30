@@ -1,0 +1,63 @@
+.container-change-pin {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 0%;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: -50px; /* Adjust the margin value as needed */
+  }
+  
+  
+  .form-control-change-pin {
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  
+  .label-field-change-pin {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .input-field-change-pin {
+    width: 80%;
+    padding: 5px;
+    margin-left: 2%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .error-message-change-pin {
+    color: red;
+    /* margin-top: 5px; */
+    text-align: left;
+  }
+  
+  .button-container-change-pin {
+    display: flex;
+    justify-content: space-between;
+    /* margin-top: 10px; */
+  }
+  
+  .card-change-pin {
+    padding: 10px 20px;
+    background-color: #323F52;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    color: #fff;
+  }
+  
+  .card-change-pin:hover {
+    background-color: #8d1748;
+  }
+  
+  .card-change-pin.cancel {
+    background-color: #f44336;
+  }
+  
+  .card-change-pin.cancel:hover {
+    background-color: #8d1748;
+  }
+  

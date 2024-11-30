@@ -1,0 +1,26 @@
+.moving-text {
+    position: relative;
+    overflow: hidden;    
+  }
+  
+  
+  .text-line {
+    animation: moveText 15s linear infinite;
+    white-space: nowrap;
+  }
+  
+  @keyframes moveText {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  
+  .profile-paper {
+    background-image:url(b.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+  }

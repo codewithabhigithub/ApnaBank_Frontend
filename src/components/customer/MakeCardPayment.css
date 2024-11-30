@@ -1,0 +1,48 @@
+/* Demo.css */
+
+.approveButton,
+.rejectButton,
+.backButton {
+  margin-top: 10px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: bold; /* Added font-weight property */
+  /* transition: background-color 0.3s; */
+}
+
+.approveButton {
+  background-color: rgb(4, 125, 4);
+  color: white;
+}
+
+.rejectButton {
+  background-color: rgb(163, 11, 11);
+  color: white;
+}
+
+.backButton {
+  background-color: #323F52;
+  color: white;
+}
+
+.buttonContainer button {
+  width: 100%;
+}
+
+.buttonContainer button:hover {
+  background-color: #8d1748;
+}
+.credit-card-customer-button1 {
+  background-color: #323F52;
+  color: white;
+  padding: 0.5rem 1rem;
+  border: none;
+  cursor: pointer;
+  margin-right: 1rem;
+  border-radius: 5px;
+}
+
+.credit-card-customer-button1:hover {
+  background-color: #8d1748;
+}

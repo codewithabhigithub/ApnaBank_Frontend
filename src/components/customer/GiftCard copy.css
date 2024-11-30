@@ -1,0 +1,91 @@
+.gift-card-create{
+    margin-left: 50%;
+}
+.gift-card-create{
+    background-color:#942252;
+    color: wheat;
+    cursor: pointer;
+    width:170px;
+    height: 30px;
+    font-size: larger;
+    border-radius: 10px;
+}
+.gift-card-create:hover{
+    background-color: #323F52;
+  color: white;
+  cursor: pointer; 
+}
+.gift-card-create-btn{
+  background-color:#942252;
+  color: wheat;
+  cursor: pointer;
+  width:170px;
+  height: 30px;
+  font-size: larger;
+  border-radius: 10px;
+}
+.gift-card-create-btn:hover{
+  background-color: #323F52;
+color: white;
+cursor: pointer; 
+}
+.customer-locker-apply {
+    margin-top: 4rem;
+    /* margin-left: 21rem; */
+    width: 100%;
+    /* background-color: aqua; */
+  }
+  .terms-and-conditions{
+    color: rgb(28, 28, 114);
+  
+  }
+  .locker-status-customer{
+    margin-top: 1rem;
+    width: 20%;
+    margin-left: 5rem;
+    border-radius: 10px;
+    background-color: #942252;
+    color: white;
+  }
+  .locker-status-customer:hover {
+    background-color: #323F52;
+    color: wheat;
+    cursor: pointer;
+  }
+  .locker-status-customer-button1{
+    margin-top: 1rem;
+    width: 20%;
+    margin-left: 30rem;
+    border-radius: 10px;
+    background-color: #942252;
+    color: white;
+  }
+  .locker-status-customer-button2{
+    margin-top: 1rem;
+    width: 20%;
+    margin-left: 1rem;
+    border-radius: 10px;
+    background-color: #942252;
+    color: white;
+  }
+  .locker-action-customer-btn{
+    display: flex;
+  }
+  .locker-dialog-btn-1{
+    margin-top: 1rem;
+    width: 20%;
+    margin-left: 10rem;
+    border-radius: 10px;
+    background-color: #942252;
+    color: white;
+    margin-bottom: 2rem;
+  }
+ .locker-dialog-btn-2{
+    margin-top: 1rem;
+    width: 20%;
+    margin-left: 1rem;
+    border-radius: 10px;
+    background-color: #942252;
+    color: white;
+    margin-bottom: 2rem;
+ }

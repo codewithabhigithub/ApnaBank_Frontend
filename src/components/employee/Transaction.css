@@ -1,0 +1,115 @@
+.transaction-container {
+  padding: 1rem;
+  margin-top: 4rem;
+  margin-left: 30%;
+  border-radius: 10px;
+  /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-image:url(b.jpg);
+  background-repeat: no-repeat;
+  background-size: cover; */
+}
+
+.transaction-input {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+
+}
+
+.transaction-button {
+  /* background-color: #323F52; */
+  color: white;
+  padding: 0.5rem 1rem;
+  border: none;
+  cursor: pointer;
+  margin-right: 1rem;
+  border-radius: 5px;
+  margin-left: 1rem;
+  font-Family: LatoRegular;
+  border-Radius: 50px;
+  background-color: #861f41;
+}
+
+.transaction-table {
+  margin-top: 1rem;
+  border-collapse: collapse;
+  width: 42%;
+}
+
+.transaction-table td {
+
+  padding: 0.5rem;
+  font-Family: LatoRegular;
+}
+
+.transaction-table td:first-child {
+  font-weight: bold;
+
+}
+
+.transaction-button1 {
+  background-color: #861f41;
+  color: white;
+  padding: 0.5rem 1rem;
+  border: none;
+  cursor: pointer;
+  margin-right: 1rem;
+  border-radius: 50px;
+  font-Family: LatoRegular;
+}
+
+/* .transaction-button1:hover {
+  background-color: #0d55c2;
+} */
+
+.transaction-input-withdrawl,
+.transaction-input-deposit {
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+}
+
+.transaction-button-cancel {
+  background-color: rgb(189, 99, 99);
+  color: white;
+  padding: 0.5rem 1rem;
+  border: none;
+  cursor: pointer;
+  margin-right: 1rem;
+  border-radius: 5px;
+}
+
+.transaction-details {
+  margin-top: 2rem;
+  font-Family: LatoRegular;
+}
+
+.transaction-details h1 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.transaction-actions {
+  margin-top: 1rem;
+}
+
+.input-deposit {
+  margin-right: 1rem;
+}
+
+.transaction-button,
+.transaction-button1,
+.transaction-button-cancel {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+/* .transaction-button1:hover,
+.transaction-button-cancel:hover {
+  background-color: #0f57c4;
+} */
+
+.account-num {
+  width: 100px;
+  height: 20px;
+}

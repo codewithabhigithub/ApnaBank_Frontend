@@ -1,0 +1,29 @@
+.alert-transaction {
+    background-color: #41bc45;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+    width: 45%;
+    margin: 0 auto;
+    float: left;
+    margin-top: 1rem;
+  }
+  .transaction-history-table-container {
+    margin-top: 20px;
+    width: 80%;
+  }
+  .transaction-history-table-head{
+    background-color:#e9eaec;
+    font-size:larger;
+    color: white;
+  }
+  
+  .transaction-row:hover {
+    background-color: #8d1748;
+    cursor: pointer;
+  }
+  
+  
+  

@@ -1,0 +1,7 @@
+.customer-loan-apply {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Optional, to center vertically on the viewport */
+  }
+  

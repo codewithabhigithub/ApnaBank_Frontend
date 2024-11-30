@@ -1,0 +1,16 @@
+.nav {
+  height: 100px;
+  display: flex;
+  align-items: center;
+  background-color: #861f41;
+}
+
+h1{
+  color: white;
+}
+
+.menu {
+  flex: 0.5;
+  color: white;
+  background-color: #861f41;
+}

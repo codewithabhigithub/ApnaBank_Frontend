@@ -1,0 +1,108 @@
+.transaction-customer-container {
+    padding: 1rem;
+    margin-top: 4rem;
+    margin-left: 30%;
+    border-radius: 10px;
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
+    /* background-image:url(b.jpg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .transaction-customer-input {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    
+  }
+  
+  .transaction-customer-button {
+    background-color: #323F52;
+    color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    cursor: pointer;
+    margin-right: 1rem;
+    border-radius: 5px;
+    margin-left: 1rem;
+  }
+  
+  .transaction-customer-table {
+    margin-top: 1rem;
+    border-collapse: collapse;
+    width: 42%;
+  }
+  
+  .transaction-customer-table td {
+  
+    padding: 0.5rem;
+  }
+  
+  .transaction-customer-table td:first-child {
+    font-weight: bold;
+    
+  }
+  
+  .transaction-customer-button1 {
+    background-color: #323F52 ;
+    color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    cursor: pointer;
+    margin-right: 1rem;
+    border-radius: 5px;
+  }
+  
+  .transaction-customer-button1:hover {
+    background-color: #8d1748;
+  }
+  
+  .transaction-customer-input-withdrawl,
+  .transaction-customer-input-deposit {
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+  }
+  
+  .transaction-customer-button-cancel {
+    background-color: red;
+    color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    cursor: pointer;
+    margin-right: 1rem;
+    border-radius: 5px;
+  }
+  
+  .transaction-customer-details {
+    margin-top: 2rem;
+  }
+  
+  .transaction-customer-details h1 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .transaction-customer-actions {
+    margin-top: 1rem;
+  }
+  
+  .input-customer-deposit {
+    margin-right: 1rem;
+  }
+  
+  .transaction-customer-button,
+  .transaction-customer-button1,
+  .transaction-customer-button-cancel {
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  .transaction-customer-button1:hover,
+  .transaction-customer-button-cancel:hover {
+    background-color: #8d1748;
+  }
+  .account-customer-num{
+    width: 100px;
+    height: 20px;
+  }

@@ -1,0 +1,40 @@
+
+
+
+.emi-calculator-container {
+    display: flex;
+    
+  }
+  .first{
+    margin-top: 5rem;
+  }
+  
+  .emi-calculator-form {
+    flex: 1;
+    background-color:#f8f8f8;
+  }
+  
+  .emi-calculator-image {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: black; */
+  }
+  
+  .emi-calculator-image img {
+    max-width: 100%;
+    height: 100%;
+  }
+  
+
+  .heading{
+    margin-top: 3rem;
+    margin-bottom: 1.5rem;
+    font-family: Lato-Bold;
+  }
+
+  .para{
+    font-family: Lato-Regular;
+    margin-bottom: 1.5rem;
+  }

@@ -1,0 +1,61 @@
+.sidebar-admin-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+}
+
+.sidebar-container {
+  width: 250px;
+  background-color:#861f41; 
+  background-image: url("blue.avif");
+
+  margin-top: 4.4rem;
+}
+
+
+.sidebar-admin {
+  height: 100vh;
+}
+
+.sidebarList-admin {
+  height: 100%;
+  padding: 0;
+}
+
+.sidebarList-admin .row-admin {
+  height: 70px;
+  list-style-type: none;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  color: rgb(241, 4, 4);
+  justify-content: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.sidebarList-admin .row-admin.active {
+  background-color: #861f41;
+}
+
+.sidebarList-admin .row-admin:hover {
+  cursor: pointer;
+  background-color: #ca577d ;
+}
+
+.icon-admin {
+  flex: 30%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.title-admin {
+  flex: 70%;
+}
+
+.content {
+  flex: 1;
+  background-color: #810b0b;
+  margin-left: 20%;
+}

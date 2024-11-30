@@ -1,0 +1,55 @@
+.employee-container {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 10rem;
+    margin-left: 10rem;
+    /* background-image:url(b.jpg); */
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+    /* display: flex; */
+  }
+  
+  .find{
+    align-items: center;
+    margin-right: 9rem;
+  }
+
+  .employee-id-search {
+    margin-bottom: 10px;
+  }
+  
+  .data-container {
+    text-align: center;
+  }
+  
+  .address-container {
+    margin-bottom: 20px;
+  }
+  
+  .field-container {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    display: inline-block;
+    width: 120px;
+    text-align: right;
+    margin-right: 10px;
+  }
+  
+  .find-emmp-input {
+    padding: 5px;
+  }
+  
+  .find-emmp-button {
+    padding: 10px 16px;
+    margin-top: 10px;
+    margin-left: 110px;
+    background-color: #323F52 ;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  .find-emmp-button:hover{
+    background-color: #861F41;
+  }

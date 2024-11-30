@@ -1,0 +1,30 @@
+.delete-worker-container {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 4rem;
+    /* background-image:url(b.jpg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+  
+  .employee-delete {
+    margin-bottom: 10px;
+    /* background-image:url(b.jpg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .delete-emp-button {
+    padding: 10px 16px;
+    margin-top: 10px;
+    background-color: #861F41;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .delete-emp-button:hover {
+    background-color: #861F41;
+  }
+  
